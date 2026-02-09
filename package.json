@@ -1,0 +1,13 @@
+{
+  "name": "guardex",
+  "version": "0.1.0",
+  "description": "AI hackers securing apps in hours, not weeks",
+  "main": "src/index.js",
+  "bin": {
+    "guardex": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "type": "module"
+}
